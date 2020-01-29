@@ -1,0 +1,16 @@
+{
+    "name": "mouss/ultra",
+    "description": "Ultra technlogies web app to order repairs",
+    "type": "project",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "println-Mozzie",
+            "email": "amosmurage56@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "^4.32"
+    }
+}
